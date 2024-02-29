@@ -1,0 +1,13 @@
+# Ignore virtual environment:
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Ignore build artifacts:
+build/
+dist/
+*.spec
+
+# Ignore config files (if config.ini should not be public):
+config.ini
