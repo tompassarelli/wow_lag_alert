@@ -25,5 +25,6 @@
    - You will be prompted to configure the application settings:
      - **Threshold**: `250` is a conservative threshold value.
      - **Server Selection**: Choose "Defias Pillager" for US Central or "Skull Rock" for US West.
+     - If you need to change your configuration later, you can directly edit the "config" file
 
 Enjoy monitoring your WOW server latency with ease!
