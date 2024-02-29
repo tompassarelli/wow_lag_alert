@@ -20,7 +20,7 @@
 4. **Run the application**
    - After the dependencies are installed, you can run the application using:
      ```
-     python wow_lag_alert.py
+     py wow_lag_alert.py
      ```
    - You will be prompted to configure the application settings:
      - **Threshold**: `250` is a conservative threshold value.
